@@ -1,9 +1,18 @@
 <h1 align="center"> Rockwell Actuator Recognition <img src="https://cdn-icons-png.flaticon.com/512/9213/9213470.png" width=30px></h1>
 
 <p align="center">
-  <img src=>
+  <img src="Fig/PSM.png" width=600px>
 </p>
 
 <p align="justify">
   The following project was presented for the Servomechanisms course at the National University of Colombia. It involves the commissioning and motion control of an Allen Bradley MPL servomotor and a Siemens 4-pole motor using the PowerFlex     525 variable frequency drive. The development presented below outlines the correct physical connections of drives and servomotors, strengthens the understanding of communication protocols, and demonstrates the implementation of LADDER        logic for the commissioning and motion control of Rockwell Automation actuators.
 </p>
+
+<h2 align= "center"><i> Tecnologies Implemented </i></h2>
+<h3> Devices </h3>
+<ul>
+  <li><b>Allen-Bradley MPL Servomotor:</b></li>
+  <p align="justify">
+    Servomotor
+  </p>
+</ul>
